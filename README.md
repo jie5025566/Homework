@@ -29,7 +29,7 @@ ThoughtWorks 2017 Homework about organizing activity
 ## Summary
 
 There are three important class in this project.
-One is Summary.java and the second is SummaryTest.java.In the Summary.java, String generateSummary(String input) is the interface function.Others are the function modules to achieve the goal.generateSummary function can call the other modules.
+One is Summary.java,SummaryTest.java and Example.java.In the Summary.java, String generateSummary(String input) is the interface function.Others are the function modules to achieve the goal.generateSummary function can call the other modules.
 The other is SummaryTest.java to realize unit test uses JUnit framework.In the SummaryTest.java, we test the generateSummary function
 and other function modules.
 The last is Example.java. It is the main function. It read input string from data.txt and print the output string.
