@@ -3,8 +3,10 @@ ThoughtWorks 2017 Homework about organizing activity
 [repository](https://github.com/jie5025566/Homework)
 
 ## Install
+
 1.Install java environment:JDK1.7
   I use eclipse with windows system and the unit test with JUnit framework.
+  
 2.clone the project:
      go get https://github.com/jie5025566/Homework
      
@@ -18,7 +20,7 @@ ThoughtWorks 2017 Homework about organizing activity
   java -jar Homework.jar
   then you can see the output.
   ```
-  or you can unzip the Homework.jar and run the Example.class.
+  or you can unzip the Homework.jar and add the Summary.class and run the Example.class.
   
 2.run the unit test:
   add the Summary.class
